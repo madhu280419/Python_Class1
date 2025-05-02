@@ -21,6 +21,8 @@ class Dog(Animal):
 details = Dog()
 details.speak()
 
+
+
 #3.Make a class Vehicle with a method info() that prints "This is a vehicle". Create a class Car that inherits Vehicle and adds a method brand() which prints the car's brand.
 class vehicle:
     def info(self):
@@ -214,3 +216,5 @@ obj = c()
 obj.greet()
 obj.introduce()
 obj.describe()
+
+print("hello world")
