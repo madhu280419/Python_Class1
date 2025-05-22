@@ -1,0 +1,50 @@
+h1 {
+    color: rgb(21, 215, 144);
+    font-size: 50px;
+    text-align: center;
+    font-family: Arial;
+}
+h2{
+    color: rgb(70, 165, 15);
+    font-size: 30px;
+    text-align: center;
+    font-family: Arial;
+
+}
+ 
+.box {
+    background-color: lightblue;
+    width: auto;
+    padding: auto;
+    border: auto solid blue;
+    margin: auto;
+}
+
+.profile_image {
+    text-align: center;
+    margin: auto;
+    display:block;
+    margin: auto;
+    
+}
+
+.form {
+    text-align: center;
+    margin: auto;
+    display: block;
+    
+    }
+
+.footer {
+    text-align: center;
+    background-color: pink
+}
+
+.website {
+    text-align: center;
+}
+
+.table {
+    text-align: center;
+    
+}
